@@ -19,10 +19,16 @@ Consigli del giorno:
 5. proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo “a mano”
 Buon lavoro e buon divertimento!
 
-# Svolgimento logico
+# Svolgimenti logici
 
 Esericizio 1:
 - Creare un'array contenente la lista dell'email degli utenti che possono accedere.
 - Creare un input per l'inserimento dell'email da controllare.
 - Controllare la presenza dell'email all'interno dell'array.
 - Dare il messaggio di accesso/non accesso.
+
+Esericizio 2:
+- Creare un input per l'utente che generi un risultato random da 1 a 6.
+- Creare un input random dato dal pc.
+- Confrontare i 2 input ottenendo chi ha ottenuto il risultato maggiore o se hanno pareggiato.
+- Dare il messaggio all'utente di vittoria o sconfitta
