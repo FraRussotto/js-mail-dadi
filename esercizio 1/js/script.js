@@ -3,7 +3,6 @@ const listUser = ["ciccio@ugo.com", "pippo@baudo.com", "mario@rossi.com"]
 
 // Creo la variabile che contiene l'email inserita manualmente dall'utente che vuole accedere
 const emailUser = prompt("Inserisci la tua email")
-
 // Inserisco una variabile Booleana
 let match = false;
 
