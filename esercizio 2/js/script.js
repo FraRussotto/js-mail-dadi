@@ -18,7 +18,7 @@ btnPlay.addEventListener("click", function(){
     document.querySelector(".result").innerHTML = "Hai vinto!";
   } else if(userPoint < pcPoint){
     document.querySelector(".result").innerHTML = "Hai perso!";
-  } else if(userPoint === pcPoint){
+  } else{
     document.querySelector(".result").innerHTML = "Hai pareggiato! Vuoi giocare ancora?";
   }
 });
